@@ -1,0 +1,3 @@
+2020-11-24 09:46:25,042 ERROR c.e.d.CartShoppingTest1Application [main] Error Message Logged !!!
+java.lang.NullPointerException: NullError
+	at com.example.demo.CartShoppingTest1Application.main(CartShoppingTest1Application.java:20) [classes/:?]
